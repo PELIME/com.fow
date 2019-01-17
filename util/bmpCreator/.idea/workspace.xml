@@ -17,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fow/util/image/bmp/BmpBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2461">
-              <caret line="159" column="14" lean-forward="true" selection-start-line="159" selection-start-column="14" selection-end-line="159" selection-end-column="14" />
+              <caret line="159" column="14" selection-start-line="159" selection-start-column="14" selection-end-line="159" selection-end-column="14" />
               <folding>
                 <element signature="method#bfOffBits#0;class#BmpBuilder#0" />
                 <element signature="method#biSize#0;class#BmpBuilder#0" />
@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fow/util/image/bmp/BmpImage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="method#BmpImage#0;class#BmpImage#0" />
                 <element signature="method#setOutFile#0;class#BmpImage#0" />
@@ -123,14 +123,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bmpCreator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bmpCreator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bmp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -240,7 +232,7 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32939914" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32939914" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
@@ -275,7 +267,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fow/util/image/bmp/BmpImage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="method#BmpImage#0;class#BmpImage#0" />
             <element signature="method#setOutFile#0;class#BmpImage#0" />
@@ -298,7 +290,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fow/util/image/bmp/BmpBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2461">
-          <caret line="159" column="14" lean-forward="true" selection-start-line="159" selection-start-column="14" selection-end-line="159" selection-end-column="14" />
+          <caret line="159" column="14" selection-start-line="159" selection-start-column="14" selection-end-line="159" selection-end-column="14" />
           <folding>
             <element signature="method#bfOffBits#0;class#BmpBuilder#0" />
             <element signature="method#biSize#0;class#BmpBuilder#0" />
