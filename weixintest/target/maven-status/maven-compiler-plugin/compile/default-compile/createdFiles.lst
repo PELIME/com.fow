@@ -1,0 +1,4 @@
+com\fow\WeiXinApplication.class
+com\fow\weixinutil\WeiXinCheck.class
+com\fow\controller\WeiXinApi.class
+com\fow\controller\Luck.class
