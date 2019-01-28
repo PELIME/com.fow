@@ -5,6 +5,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 import javax.servlet.http.HttpServletRequest;
+import java.io.BufferedReader;
+import java.io.IOException;
 
 
 @RestController
@@ -24,6 +26,24 @@ public class WeiXinApi {
             {
                 return echostr;
             }
+        }
+        else if(method.equalsIgnoreCase("post"))
+        {
+
+
+            try {
+                BufferedReader breader=request.getReader();
+                String stmp=null;
+                System.out.println("----------------------");
+                while ((stmp=breader.readLine())!=null)
+                {
+                    System.out.println(stmp);
+                }
+                System.out.println("----------------------");
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+
         }
         return "呵呵";
     }
