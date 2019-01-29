@@ -7,8 +7,6 @@ import com.thoughtworks.xstream.io.xml.StaxDriver;
 
 import java.io.Reader;
 import java.util.Collections;
-import java.util.LinkedList;
-import java.util.List;
 
 public abstract class AbstractMessageContainer implements MessageContainer<String> {
     protected String message;
@@ -28,7 +26,7 @@ public abstract class AbstractMessageContainer implements MessageContainer<Strin
     {
         XStream xStream=new XStream(new StaxDriver());
         xStream.fromXML(reader);
-
+        return  null;
 
     }
 
